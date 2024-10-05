@@ -1,0 +1,8 @@
+li {
+    list-style-type: none;
+}
+
+img {
+    max-width: 150px;
+    max-height: 150px;
+}
